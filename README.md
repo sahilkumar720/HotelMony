@@ -1,6 +1,6 @@
 # 🚀 HotelMony – Luxury Hotel Booking UI
 
-Welcome to **QuickStay**, a sleek, responsive hotel booking frontend built with **React.js** and **Tailwind CSS**. Designed to deliver a luxurious, user-first experience for both travelers and property owners.
+Welcome to **HotelMony**, a sleek, responsive hotel booking frontend built with **React.js** and **Tailwind CSS**. Designed to deliver a luxurious, user-first experience for both travelers and property owners.
 
 🌐 **Live Demo**: [https://hotelmony.netlify.app](https://hotelmony.netlify.app/)  
 📂 **GitHub Repo**: [https://github.com/sahilkumar720/HotelMony](https://github.com/sahilkumar720/HotelMony)  
