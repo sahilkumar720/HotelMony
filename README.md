@@ -2,8 +2,8 @@
 
 Welcome to **QuickStay**, a sleek, responsive hotel booking frontend built with **React.js** and **Tailwind CSS**. Designed to deliver a luxurious, user-first experience for both travelers and property owners.
 
-🌐 **Live Demo**: [https://quick-stay-s.vercel.app](https://quick-stay-s.vercel.app)  
-📂 **GitHub Repo**: [https://github.com/YashBachwani/QuickStay](https://github.com/YashBachwani/QuickStay)  
+🌐 **Live Demo**: [https://hotelmony.netlify.app](https://hotelmony.netlify.app/)  
+📂 **GitHub Repo**: [https://github.com/sahilkumar720/HotelMony](https://github.com/sahilkumar720/HotelMony)  
 📧 **Contact**: sahilkumar7369@gmail.com
 
 ---
@@ -51,8 +51,8 @@ Welcome to **QuickStay**, a sleek, responsive hotel booking frontend built with 
 
 ### 🚀 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YashBachwani/QuickStay.git
-cd QuickStay
+git clone https://github.com/sahilkumar720/HotelMony.git
+cd HotelMony
 ```
 
 ### 📦 Step 2: Install Dependencies
@@ -96,7 +96,8 @@ Feel free to fork this repo, raise issues, or submit PRs. Let's build something 
 
 ## 📄 License
 
-MIT © 2025 — Yash Bachwani
+© 2025 — Sahil Kumar
 
 ### 🏆 **Built with Passion, Shared with the Community**  
+
 *"Travel should be easy. Booking should be effortless."* 
